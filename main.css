@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Roboto-Thin;
+    src: url("./res/font/Roboto-Thin.ttf");
+}
+
+html {
+    background: #FFF;
+    font-family: Roboto-Thin, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+
+#header-bar {
+    background: #777;
+    color: #FFF;
+    height: 10%;
+    padding: 1em;
+    font-size: 2em;
+}
+
+#main-content {
+    padding: 2em;
+    font-size: 3em;
+    background: #CCC;
+}
+
+#footer-bar {
+    background: #777;
+    color: #FFF;
+    height: 10%;
+    padding: 1em;
+    font-size: 1.5em;
+}
