@@ -6,10 +6,12 @@
 html {
     background: #FFF;
     font-family: Roboto-Thin, sans-serif;
+    height: 100%;
 }
 
 body {
     margin: 0;
+    height: 100%;
 }
 
 
@@ -17,20 +19,23 @@ body {
     background: #777;
     color: #FFF;
     height: 10%;
-    padding: 1em;
     font-size: 2em;
 }
 
 #main-content {
-    padding: 2em;
     font-size: 3em;
     background: #CCC;
+    height: 80%;
 }
 
 #footer-bar {
     background: #777;
     color: #FFF;
     height: 10%;
-    padding: 1em;
     font-size: 1.5em;
+}
+
+span,
+#on-load-content {
+    margin-left: 1em;
 }
