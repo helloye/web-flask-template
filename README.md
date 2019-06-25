@@ -7,3 +7,5 @@ Pre-requsits:
 - Flask 1.0+
 
 Run flask locally in the `/src/py` directory: `FLASK_APP=app.py flask run`
+
+TODO: Add sqlite db....?
